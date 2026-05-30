@@ -1,0 +1,5 @@
+# Arquivos de configuracion
+*.env
+
+# Arquivos do google adk
+/.adk
