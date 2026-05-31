@@ -22,13 +22,13 @@ preguntas_chatbot = [
 	"¿Alguna vez han considerado terminar la relación por un conflicto grave?", 
 	"¿La falta de intimidad física sería un motivo de ruptura para ti?", 
 	"¿Crees que el cariño ha aumentado con el tiempo?", 
-	"¿Alguna vez has dudado de su amor por ti?", 
+	"¿Alguna vez has dudado de su amor por ti? ", 
 	"¿Esta relación te ha ayudado a crecer como persona?", 
 	"¿Te molesta que tu pareja tenga amistades muy cercanas del sexo opuesto?", 
 	"¿Crees que los detalles pequeños (ej. un café, un mensaje) son clave en la relación?", 
-	"¿Tu pareja recuerda detalles importantes para ti (cumpleaños, gustos, etc.)?", 
+	" ¿Tu pareja recuerda detalles importantes para ti (cumpleaños, gustos, etc.)?", 
 	"¿Sientes que tu pareja te idealiza en lugar de aceptar tus defectos?", 
 	"¿Tu pareja se disculpa cuando se equivoca?", 
 	"¿Tu pareja evita compararte con sus ex?", 
 	"¿Crees que su relación es más fuerte ahora que al inicio?", 
-	"¿Te sientes cómodo y que puedes ser tú mismo al estar con tu pareja?" ]
+	"¿Te sientes cómodo y que puedes ser tu mismo al estar con tu pareja?" ]
