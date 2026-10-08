@@ -136,3 +136,24 @@ PYTHONPATH=. python3 camila/test/test_features.py
 - **pandas** - Data processing
 - **joblib** - Model serialization
 - **FastAPI / Uvicorn** - Web server
+
+## 👥 Autores
+
+<table>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/LeydLayd">
+        <img src="https://github.com/LeydLayd.png" width="100px;" alt=""/>
+        <br />
+        <sub><b>Diego Robles</b></sub>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/Itzel092">
+        <img src="https://github.com/Itzel092.png" width="100px;" alt=""/>
+        <br />
+        <sub><b>Itzel Romano</b></sub>
+      </a>
+    </td>
+  </tr>
+</table>
